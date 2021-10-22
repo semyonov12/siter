@@ -647,6 +647,10 @@ header:before{
 		margin: 20px auto 0;
 		display: block;
 	}
+	.menu {
+    padding-top: 100px;
+
+}
 
 }
 @media (max-width: 715px){
