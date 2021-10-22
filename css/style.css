@@ -648,7 +648,7 @@ header:before{
 		display: block;
 	}
 	.menu {
-    padding-top: 100px;
+    padding-top: 93px;
 
 }
 
@@ -746,5 +746,8 @@ header:before{
 }
 input {
     width: 90%;
+}
+.about{
+	font-size: 30px;
 }
 }
